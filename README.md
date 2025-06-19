@@ -15,13 +15,14 @@
 ---
 
 ## 📁 Project Structure
+```
 .
 ├── index.html # Main HTML page
 ├── style.css # All styling 
 ├── script.js # JS for interactivity
 └── assets/ # Images for products and banners
     └── all image files
-
+```
 ---
 
 ## 🛠️ Technologies Used
